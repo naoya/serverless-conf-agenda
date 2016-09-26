@@ -16,6 +16,7 @@
 
 - [Mobile development with Cognito, SNS and Kinesis](https://speakerdeck.com/ymatsuwitter/mobile-development-with-cognito-sns-and-kinesis)
 - [マイクロにしすぎた結果がこれだよ！](http://www.slideshare.net/mosa_siru/ss-64839846)
+- [iPhoneアプリのバックエンドとしてServerless Framework使ってみた // Speaker Deck](https://speakerdeck.com/mackato/iphoneapurifalsebatukuendotositeserverless-frameworkshi-tutemita)
 
 ### Frameworks / Tools
 
