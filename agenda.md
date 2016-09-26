@@ -1,21 +1,23 @@
 ## Serverless Conf / Serverless Geeks Panel
 
+### About Serverless Architectures
+
 - [Serverless Architectures](http://www.martinfowler.com/articles/serverless.html)
 - [サーバーレスアーキテクチャという技術分野についての簡単な調査](http://qiita.com/zerobase/items/3bc0d15980b472af841d)
 - [FaaS、PaaS、サーバーレスアーキテクチャのメリット](https://www.infoq.com/jp/news/2016/06/faas-serverless-architecture)
 
-### Service
+### Services
 
 - [AWS Lambda](https://aws.amazon.com/jp/lambda/)
 - [Functions - Microsoft Azure](https://azure.microsoft.com/ja-jp/services/functions/)
 - [Cloud Functions](https://cloud.google.com/functions/)
 
-### Case Study
+### Case Studies
 
 - [Mobile development with Cognito, SNS and Kinesis](https://speakerdeck.com/ymatsuwitter/mobile-development-with-cognito-sns-and-kinesis)
 - [マイクロにしすぎた結果がこれだよ！](http://www.slideshare.net/mosa_siru/ss-64839846)
 
-### Framework / Tools
+### Frameworks / Tools
 
 - [Serverless Framework](https://serverless.com/)
 - [Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
