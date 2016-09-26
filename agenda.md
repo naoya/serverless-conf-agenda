@@ -5,6 +5,7 @@
 - [Serverless Architectures](http://www.martinfowler.com/articles/serverless.html)
 - [サーバーレスアーキテクチャという技術分野についての簡単な調査](http://qiita.com/zerobase/items/3bc0d15980b472af841d)
 - [FaaS、PaaS、サーバーレスアーキテクチャのメリット](https://www.infoq.com/jp/news/2016/06/faas-serverless-architecture)
+- [“Serverless” is just a name. We could have called it “Jeff”](https://serverless.zone/serverless-is-just-a-name-we-could-have-called-it-jeff-1958dd4c63d7#.mrnb2u4lx)
 
 ### Services
 
