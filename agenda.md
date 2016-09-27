@@ -22,15 +22,22 @@
 - [マイクロにしすぎた結果がこれだよ！](http://www.slideshare.net/mosa_siru/ss-64839846)
 - [iPhoneアプリのバックエンドとしてServerless Framework使ってみた // Speaker Deck](https://speakerdeck.com/mackato/iphoneapurifalsebatukuendotositeserverless-frameworkshi-tutemita)
 
-### Frameworks / Tools
-
+### Frameworks
 - [Serverless Framework](https://serverless.com/)
+
+#### AWS API Gateway + Lambda 
 - [Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
+- [fluct](https://github.com/fluct/fluct)
+
+### Tools
+
+#### Deploy and Manage
 - [Lamvery](https://github.com/marcy-terui/lamvery)
 	- [Unlimited Frameworks (ServerlessConfセッション紹介)](http://yoshidashingo.hatenablog.com/entry/2016/09/04/191614)
 - [Apex](https://github.com/apex/apex)
-- [fluct](https://github.com/fluct/fluct)
 - [node-aws-lambda](https://github.com/ThoughtWorksStudios/node-aws-lambda)
+
+#### Replicate
 - [docker-lambda](https://github.com/lambci/docker-lambda)
 
 ### Pricing
