@@ -31,6 +31,7 @@
 - [Apex](https://github.com/apex/apex)
 - [fluct](https://github.com/fluct/fluct)
 - [node-aws-lambda](https://github.com/ThoughtWorksStudios/node-aws-lambda)
+- [docker-lambda](https://github.com/lambci/docker-lambda)
 
 ### Pricing
 
