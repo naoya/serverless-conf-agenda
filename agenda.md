@@ -16,6 +16,10 @@
 - [Cloud Functions](https://cloud.google.com/functions/)
 - [Firebase](https://firebase.google.com/)
 
+### vs PaaS
+- [Heroku](https://www.heroku.com/)
+- [Google App Engine](https://cloud.google.com/appengine/)
+
 ### Case Studies
 
 - [Mobile development with Cognito, SNS and Kinesis](https://speakerdeck.com/ymatsuwitter/mobile-development-with-cognito-sns-and-kinesis)
