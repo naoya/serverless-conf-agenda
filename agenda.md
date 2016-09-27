@@ -29,6 +29,7 @@
 - [Lamvery](https://github.com/marcy-terui/lamvery)
 	- [Unlimited Frameworks (ServerlessConfセッション紹介)](http://yoshidashingo.hatenablog.com/entry/2016/09/04/191614)
 - [Apex](https://github.com/apex/apex)
+- [fluct](https://github.com/fluct/fluct)
 
 ### Pricing
 
