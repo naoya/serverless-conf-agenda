@@ -30,6 +30,7 @@
 	- [Unlimited Frameworks (ServerlessConfセッション紹介)](http://yoshidashingo.hatenablog.com/entry/2016/09/04/191614)
 - [Apex](https://github.com/apex/apex)
 - [fluct](https://github.com/fluct/fluct)
+- [node-aws-lambda](https://github.com/ThoughtWorksStudios/node-aws-lambda)
 
 ### Pricing
 
