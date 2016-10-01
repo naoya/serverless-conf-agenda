@@ -67,6 +67,7 @@
 - [松本 勇気さんのツイート: &quot;AWSもすごくいいけど、実行リソースが実行単位で立ち上がる仕組みで1番強いのはGoogleAppEngineのGoだと思う。立ち上がりもスケーリングも柔軟でかつ実行環境に豊富なツールが揃ってる。 #serverlessconf&quot;](https://twitter.com/y_matsuwitter/status/782086254422659072)
 - サーバーレスアーキテクチャの未来
 	- コンテナを飛び越してサーバーレス?
+	- [tannaiさんのツイート: &quot;@y_matsuwitter EC2 -&gt; コンテナ -&gt; Lambdaの流れになってて、実行単位の寿命やスケーリング単位がどんどん小さくなっていくってre:Inventでも言ってましたね #serverlessconf&quot;](https://twitter.com/yuukigoodman/status/782085094601207809)
 
 ## Pricing
 
