@@ -1,5 +1,11 @@
 ## Serverless Conf / Serverless Geeks Panel
 
+### Talks
+
+- [Serverless with a native application for Newspass](https://speakerdeck.com/ymatsuwitter/serverless-with-a-native-application-for-newspass)
+- [Unlimited Frameworks](http://www.slideshare.net/slideshow/embed_code/key/cCealgMvuj1XuK)
+- 紙面ビューアーを支えるサーバーレスアーキテクチャ
+
 ### About Serverless Architectures
 
 - [Serverless Architectures](http://www.martinfowler.com/articles/serverless.html)
