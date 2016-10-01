@@ -55,6 +55,12 @@
 - [鈴木雄介/Yusuke SUZUKIさんのツイート: &quot;サーバーレスアーキテクチャにすごく期待している人がいるけど、あんなのでアプリ組めるわけないよね？イベント発火としては素晴らしいけども。ストリーム型のイベント駆動と比較して、別の言い方って無いのかな？&quot;](https://twitter.com/yusuke_arclamp/status/778020039194611712)
 - [鈴木雄介/Yusuke SUZUKIさんのツイート: &quot;もちろんサーバーレスはとても大事な仕組みなんだけど、現時点で「サーバーレスだけで業務アプリを組む」みたいなことを考える人はアーキテクチャ分かってないなと思う https://t.co/sPyKWKZ0iA&quot;](https://twitter.com/yusuke_arclamp/status/778237843852234752)
 
+#### Reactive Systems
+
+- [Reactive Manifesto](http://www.reactivemanifesto.org/ja)
+- [Web API サーバーとしての Elixir の可能性](https://speakerdeck.com/naoya/web-api-sabatositefalse-elixir-falseke-neng-xing) / Erlang の Actor モデルとの比較
+- [Naoya Itoさんのツイート: &quot;実行に伴うオーバーヘッドが十分に小さければサーバーがなくても毎回処理を起動して破棄すれば、Immutable で shared nothing になり、リアクティブになる。Erlang の Actor モデルと同じ考え方ですよ #serverlessconf&quot;](https://twitter.com/naoya_ito/status/782081868120240129)
+
 ### Pricing
 
 - [AWS LambdaのPricingを読み解く](http://qiita.com/Keisuke69/items/e3f79b50b6039175401b)
