@@ -71,3 +71,4 @@
 ## Pricing
 
 - [AWS LambdaのPricingを読み解く](http://qiita.com/Keisuke69/items/e3f79b50b6039175401b)
+- [nekokakさんのツイート: &quot;serverlessの場合て事前の費用見積もりがむずかしくないです？ #serverlessconf&quot;](https://twitter.com/nekokak/status/782085862607552513)
