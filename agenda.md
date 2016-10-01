@@ -4,7 +4,7 @@
 
 - [Serverless with a native application for Newspass](https://speakerdeck.com/ymatsuwitter/serverless-with-a-native-application-for-newspass) - y_matsuwitter
 - [Unlimited Frameworks](http://www.slideshare.net/slideshow/embed_code/key/cCealgMvuj1XuK) - Masashi Terui
-- 紙面ビューアーを支えるサーバーレスアーキテクチャ - Taishi Ikai
+- [紙面ビューアーを支えるサーバーレスアーキテクチャ](https://speakerdeck.com/ikait/serverless-architecture-supports-nikkeis-paper-viewer) - Taishi Ikai
 
 ## About Serverless Architectures
 
