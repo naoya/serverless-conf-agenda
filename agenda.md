@@ -50,6 +50,11 @@
 #### Replicate
 - [docker-lambda](https://github.com/lambci/docker-lambda)
 
+### Consideration
+
+- [鈴木雄介/Yusuke SUZUKIさんのツイート: &quot;サーバーレスアーキテクチャにすごく期待している人がいるけど、あんなのでアプリ組めるわけないよね？イベント発火としては素晴らしいけども。ストリーム型のイベント駆動と比較して、別の言い方って無いのかな？&quot;](https://twitter.com/yusuke_arclamp/status/778020039194611712)
+- [鈴木雄介/Yusuke SUZUKIさんのツイート: &quot;もちろんサーバーレスはとても大事な仕組みなんだけど、現時点で「サーバーレスだけで業務アプリを組む」みたいなことを考える人はアーキテクチャ分かってないなと思う https://t.co/sPyKWKZ0iA&quot;](https://twitter.com/yusuke_arclamp/status/778237843852234752)
+
 ### Pricing
 
 - [AWS LambdaのPricingを読み解く](http://qiita.com/Keisuke69/items/e3f79b50b6039175401b)
