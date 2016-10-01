@@ -65,6 +65,8 @@
 
 - [Masashi Teruiさんのツイート: &quot;全てをイベント駆動と捉えて、API GW + LambdaみたいなのはWebhookとかユーザ側・サービス間イベントを伝える手段として捉えると良いんじゃないかなと思ったりします #serverlessconf https://t.co/nZCoWwDJVy&quot;](https://twitter.com/marcy_terui/status/782088392754405376)
 - [松本 勇気さんのツイート: &quot;AWSもすごくいいけど、実行リソースが実行単位で立ち上がる仕組みで1番強いのはGoogleAppEngineのGoだと思う。立ち上がりもスケーリングも柔軟でかつ実行環境に豊富なツールが揃ってる。 #serverlessconf&quot;](https://twitter.com/y_matsuwitter/status/782086254422659072)
+- サーバーレスアーキテクチャの未来
+	- コンテナを飛び越してサーバーレス?
 
 ## Pricing
 
