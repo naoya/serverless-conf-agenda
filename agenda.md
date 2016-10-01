@@ -61,6 +61,10 @@
 - [Web API サーバーとしての Elixir の可能性](https://speakerdeck.com/naoya/web-api-sabatositefalse-elixir-falseke-neng-xing) / Erlang の Actor モデルとの比較
 - [Naoya Itoさんのツイート: &quot;実行に伴うオーバーヘッドが十分に小さければサーバーがなくても毎回処理を起動して破棄すれば、Immutable で shared nothing になり、リアクティブになる。Erlang の Actor モデルと同じ考え方ですよ #serverlessconf&quot;](https://twitter.com/naoya_ito/status/782081868120240129)
 
+#### Misc
+
+- [松本 勇気さんのツイート: &quot;AWSもすごくいいけど、実行リソースが実行単位で立ち上がる仕組みで1番強いのはGoogleAppEngineのGoだと思う。立ち上がりもスケーリングも柔軟でかつ実行環境に豊富なツールが揃ってる。 #serverlessconf&quot;](https://twitter.com/y_matsuwitter/status/782086254422659072)
+
 ### Pricing
 
 - [AWS LambdaのPricingを読み解く](http://qiita.com/Keisuke69/items/e3f79b50b6039175401b)
