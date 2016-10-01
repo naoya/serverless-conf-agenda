@@ -1,6 +1,6 @@
 # Serverless Conf / Serverless Geeks Panel
 
-## Talks
+## Talks by each panelists
 
 - [Serverless with a native application for Newspass](https://speakerdeck.com/ymatsuwitter/serverless-with-a-native-application-for-newspass)
 - [Unlimited Frameworks](http://www.slideshare.net/slideshow/embed_code/key/cCealgMvuj1XuK)
