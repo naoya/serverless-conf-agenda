@@ -73,3 +73,4 @@
 
 - [AWS LambdaのPricingを読み解く](http://qiita.com/Keisuke69/items/e3f79b50b6039175401b)
 - [nekokakさんのツイート: &quot;serverlessの場合て事前の費用見積もりがむずかしくないです？ #serverlessconf&quot;](https://twitter.com/nekokak/status/782085862607552513)
+- [松本 勇気さんのツイート: &quot;大量のデータを競技者にぶつけるベンチマーカーをlambdaで運用したけど二日間ガンガン利用されても260円くらいだった。ほんとlambda安い。 #serverlessconf&quot;](https://twitter.com/y_matsuwitter/status/782128999036092416)
